@@ -1,0 +1,11 @@
+.app-root {
+    background: #1e88e5;
+    color: #fff;
+}
+
+.container {
+    margin: 20px 100px;
+    padding: 10px 50px;
+    height: calc(100vh - 300px);
+    box-shadow: 0 2px 16px -6px #959696;
+}
